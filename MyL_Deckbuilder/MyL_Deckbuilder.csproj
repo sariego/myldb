@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A81DC525-FE60-4E93-BB85-55945375DBCF}</ProjectGuid>
+    <ProjectTypeGuids>{A1591282-1198-4647-A2B1-27E5FF5F6F3B};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MyL_Deckbuilder</RootNamespace>
+    <AssemblyName>MyL_Deckbuilder</AssemblyName>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>MyL_Deckbuilder.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>MyL_Deckbuilder.App</SilverlightAppEntry>
+    <TestPageFileName>MyL_DeckbuilderTestPage.html</TestPageFileName>
+    <CreateTestPage>true</CreateTestPage>
+    <ValidateXaml>true</ValidateXaml>
+    <EnableOutOfBrowser>false</EnableOutOfBrowser>
+    <OutOfBrowserSettingsFile>Properties\OutOfBrowserSettings.xml</OutOfBrowserSettingsFile>
+    <UsePlatformExtensions>false</UsePlatformExtensions>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <LinkedServerProject>
+    </LinkedServerProject>
+  </PropertyGroup>
+  <!-- This property group is only here to support building this project using the 
+       MSBuild 3.5 toolset. In order to work correctly with this older toolset, it needs 
+       to set the TargetFrameworkVersion to v3.5 -->
+  <PropertyGroup Condition="'$(MSBuildToolsVersion)' == '3.5'">
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System.ComponentModel.DataAnnotations, Version=5.0.5.0, Culture=neutral, PublicKeyToken=ddd0da4d3e678217, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core">
+      <HintPath>$(TargetFrameworkDirectory)System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Controls, Version=5.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Controls.Data, Version=5.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Controls.Data.Input, Version=5.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Controls.DataVisualization.Toolkit, Version=5.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Controls.Toolkit, Version=5.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Controls.Toolkit.Internals, Version=4.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Data, Version=5.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Windows.Browser" />
+    <Reference Include="System.Xml.Linq, Version=5.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardDetails.xaml.cs">
+      <DependentUpon>CardDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Carta.cs" />
+    <Compile Include="ChartItem.cs" />
+    <Compile Include="DeckCard.cs" />
+    <Compile Include="DeckStats.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StatsPage.xaml.cs">
+      <DependentUpon>StatsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StringExtensions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="CardDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StatsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\1FU-001-190.jpg" />
+    <Resource Include="img\1FU-002-190.jpg" />
+    <Resource Include="img\1FU-003-190.jpg" />
+    <Resource Include="img\1FU-004-190.jpg" />
+    <Resource Include="img\1FU-005-190.jpg" />
+    <Resource Include="img\1FU-006-190.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\1FU-007-190.jpg" />
+    <Resource Include="img\1FU-008-190.jpg" />
+    <Resource Include="img\1FU-009-190.jpg" />
+    <Resource Include="img\1FU-010-190.jpg" />
+    <Resource Include="img\1FU-011-190.jpg" />
+    <Resource Include="img\1FU-012-190.jpg" />
+    <Resource Include="img\1FU-013-190.jpg" />
+    <Resource Include="img\1FU-014-190.jpg" />
+    <Resource Include="img\1FU-015-190.jpg" />
+    <Resource Include="img\1FU-016-190.jpg" />
+    <Resource Include="img\1FU-017-190.jpg" />
+    <Resource Include="img\1FU-018-190.jpg" />
+    <Resource Include="img\1FU-019-190.jpg" />
+    <Resource Include="img\1FU-020-190.jpg" />
+    <Resource Include="img\1FU-021-190.jpg" />
+    <Resource Include="img\1FU-022-190.jpg" />
+    <Resource Include="img\1FU-023-190.jpg" />
+    <Resource Include="img\1FU-024-190.jpg" />
+    <Resource Include="img\1FU-025-190.jpg" />
+    <Resource Include="img\1FU-026-190.jpg" />
+    <Resource Include="img\1FU-027-190.jpg" />
+    <Resource Include="img\1FU-028-190.jpg" />
+    <Resource Include="img\1FU-029-190.jpg" />
+    <Resource Include="img\1FU-030-190.jpg" />
+    <Resource Include="img\1FU-031-190.jpg" />
+    <Resource Include="img\1FU-032-190.jpg" />
+    <Resource Include="img\1FU-033-190.jpg" />
+    <Resource Include="img\1FU-034-190.jpg" />
+    <Resource Include="img\1FU-035-190.jpg" />
+    <Resource Include="img\1FU-036-190.jpg" />
+    <Resource Include="img\1FU-037-190.jpg" />
+    <Resource Include="img\1FU-038-190.jpg" />
+    <Resource Include="img\1FU-039-190.jpg" />
+    <Resource Include="img\1FU-040-190.jpg" />
+    <Resource Include="img\1FU-041-190.jpg" />
+    <Resource Include="img\1FU-042-190.jpg" />
+    <Resource Include="img\1FU-043-190.jpg" />
+    <Resource Include="img\1FU-044-190.jpg" />
+    <Resource Include="img\1FU-045-190.jpg" />
+    <Resource Include="img\1FU-046-190.jpg" />
+    <Resource Include="img\1FU-047-190.jpg" />
+    <Resource Include="img\1FU-048-190.jpg" />
+    <Resource Include="img\1FU-049-190.jpg" />
+    <Resource Include="img\1FU-050-190.jpg" />
+    <Resource Include="img\1FU-051-190.jpg" />
+    <Resource Include="img\1FU-052-190.jpg" />
+    <Resource Include="img\1FU-053-190.jpg" />
+    <Resource Include="img\1FU-054-190.jpg" />
+    <Resource Include="img\1FU-055-190.jpg" />
+    <Resource Include="img\1FU-056-190.jpg" />
+    <Resource Include="img\1FU-057-190.jpg" />
+    <Resource Include="img\1FU-058-190.jpg" />
+    <Resource Include="img\1FU-059-190.jpg" />
+    <Resource Include="img\1FU-060-190.jpg" />
+    <Resource Include="img\1FU-061-190.jpg" />
+    <Resource Include="img\1FU-062-190.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\1FU-063-190.jpg" />
+    <Resource Include="img\1FU-064-190.jpg" />
+    <Resource Include="img\1FU-065-190.jpg" />
+    <Resource Include="img\1FU-066-190.jpg" />
+    <Resource Include="img\1FU-067-190.jpg" />
+    <Resource Include="img\1FU-068-190.jpg" />
+    <Resource Include="img\1FU-069-190.jpg" />
+    <Resource Include="img\1FU-070-190.jpg" />
+    <Resource Include="img\1FU-071-190.jpg" />
+    <Resource Include="img\1FU-072-190.jpg" />
+    <Resource Include="img\1FU-073-190.jpg" />
+    <Resource Include="img\1FU-074-190.jpg" />
+    <Resource Include="img\1FU-075-190.jpg" />
+    <Resource Include="img\1FU-076-190.jpg" />
+    <Resource Include="img\1FU-077-190.jpg" />
+    <Resource Include="img\1FU-078-190.jpg" />
+    <Resource Include="img\1FU-079-190.jpg" />
+    <Resource Include="img\1FU-080-190.jpg" />
+    <Resource Include="img\1FU-081-190.jpg" />
+    <Resource Include="img\1FU-082-190.jpg" />
+    <Resource Include="img\1FU-083-190.jpg" />
+    <Resource Include="img\1FU-084-190.jpg" />
+    <Resource Include="img\1FU-085-190.jpg" />
+    <Resource Include="img\1FU-086-190.jpg" />
+    <Resource Include="img\1FU-087-190.jpg" />
+    <Resource Include="img\1FU-088-190.jpg" />
+    <Resource Include="img\1FU-089-190.jpg" />
+    <Resource Include="img\1FU-090-190.jpg" />
+    <Resource Include="img\1FU-091-190.jpg" />
+    <Resource Include="img\1FU-092-190.jpg" />
+    <Resource Include="img\1FU-093-190.jpg" />
+    <Resource Include="img\1FU-094-190.jpg" />
+    <Resource Include="img\1FU-095-190.jpg" />
+    <Resource Include="img\1FU-096-190.jpg" />
+    <Resource Include="img\1FU-097-190.jpg" />
+    <Resource Include="img\1FU-098-190.jpg" />
+    <Resource Include="img\1FU-099-190.jpg" />
+    <Resource Include="img\1FU-100-190.jpg" />
+    <Resource Include="img\1FU-101-190.jpg" />
+    <Resource Include="img\1FU-102-190.jpg" />
+    <Resource Include="img\1FU-103-190.jpg" />
+    <Resource Include="img\1FU-104-190.jpg" />
+    <Resource Include="img\1FU-105-190.jpg" />
+    <Resource Include="img\1FU-106-190.jpg" />
+    <Resource Include="img\1FU-107-190.jpg" />
+    <Resource Include="img\1FU-108-190.jpg" />
+    <Resource Include="img\1FU-109-190.jpg" />
+    <Resource Include="img\1FU-110-190.jpg" />
+    <Resource Include="img\1FU-111-190.jpg" />
+    <Resource Include="img\1FU-112-190.jpg" />
+    <Resource Include="img\1FU-113-190.jpg" />
+    <Resource Include="img\1FU-114-190.jpg" />
+    <Resource Include="img\1FU-115-190.jpg" />
+    <Resource Include="img\1FU-116-190.jpg" />
+    <Resource Include="img\1FU-117-190.jpg" />
+    <Resource Include="img\1FU-118-190.jpg" />
+    <Resource Include="img\1FU-119-190.jpg" />
+    <Resource Include="img\1FU-120-190.jpg" />
+    <Resource Include="img\1FU-121-190.jpg" />
+    <Resource Include="img\1FU-122-190.jpg" />
+    <Resource Include="img\1FU-123-190.jpg" />
+    <Resource Include="img\1FU-124-190.jpg" />
+    <Resource Include="img\1FU-125-190.jpg" />
+    <Resource Include="img\1FU-126-190.jpg" />
+    <Resource Include="img\1FU-127-190.jpg" />
+    <Resource Include="img\1FU-128-190.jpg" />
+    <Resource Include="img\1FU-129-190.jpg" />
+    <Resource Include="img\1FU-130-190.jpg" />
+    <Resource Include="img\1FU-131-190.jpg" />
+    <Resource Include="img\1FU-132-190.jpg" />
+    <Resource Include="img\1FU-133-190.jpg" />
+    <Resource Include="img\1FU-134-190.jpg" />
+    <Resource Include="img\1FU-135-190.jpg" />
+    <Resource Include="img\1FU-136-190.jpg" />
+    <Resource Include="img\1FU-137-190.jpg" />
+    <Resource Include="img\1FU-138-190.jpg" />
+    <Resource Include="img\1FU-139-190.jpg" />
+    <Resource Include="img\1FU-140-190.jpg" />
+    <Resource Include="img\1FU-141-190.jpg" />
+    <Resource Include="img\1FU-142-190.jpg" />
+    <Resource Include="img\1FU-143-190.jpg" />
+    <Resource Include="img\1FU-144-190.jpg" />
+    <Resource Include="img\1FU-145-190.jpg" />
+    <Resource Include="img\1FU-146-190.jpg" />
+    <Resource Include="img\1FU-147-190.jpg" />
+    <Resource Include="img\1FU-148-190.jpg" />
+    <Resource Include="img\1FU-149-190.jpg" />
+    <Resource Include="img\1FU-150-190.jpg" />
+    <Resource Include="img\1FU-151-190.jpg" />
+    <Resource Include="img\1FU-152-190.jpg" />
+    <Resource Include="img\1FU-153-190.jpg" />
+    <Resource Include="img\1FU-154-190.jpg" />
+    <Resource Include="img\1FU-155-190.jpg" />
+    <Resource Include="img\1FU-156-190.jpg" />
+    <Resource Include="img\1FU-157-190.jpg" />
+    <Resource Include="img\1FU-158-190.jpg" />
+    <Resource Include="img\1FU-159-190.jpg" />
+    <Resource Include="img\1FU-160-190.jpg" />
+    <Resource Include="img\1FU-161-190.jpg" />
+    <Resource Include="img\1FU-162-190.jpg" />
+    <Resource Include="img\1FU-163-190.jpg" />
+    <Resource Include="img\1FU-164-190.jpg" />
+    <Resource Include="img\1FU-165-190.jpg" />
+    <Resource Include="img\1FU-166-190.jpg" />
+    <Resource Include="img\1FU-167-190.jpg" />
+    <Resource Include="img\1FU-168-190.jpg" />
+    <Resource Include="img\1FU-169-190.jpg" />
+    <Resource Include="img\1FU-170-190.jpg" />
+    <Resource Include="img\1FU-171-190.jpg" />
+    <Resource Include="img\1FU-172-190.jpg" />
+    <Resource Include="img\1FU-173-190.jpg" />
+    <Resource Include="img\1FU-174-190.jpg" />
+    <Resource Include="img\1FU-175-190.jpg" />
+    <Resource Include="img\1FU-176-190.jpg" />
+    <Resource Include="img\1FU-177-190.jpg" />
+    <Resource Include="img\1FU-178-190.jpg" />
+    <Resource Include="img\1FU-179-190.jpg" />
+    <Resource Include="img\1FU-180-190.jpg" />
+    <Resource Include="img\1FU-181-190.jpg" />
+    <Resource Include="img\1FU-182-190.jpg" />
+    <Resource Include="img\1FU-183-190.jpg" />
+    <Resource Include="img\1FU-184-190.jpg" />
+    <Resource Include="img\1FU-185-190.jpg" />
+    <Resource Include="img\1FU-186-190.jpg" />
+    <Resource Include="img\1FU-187-190.jpg" />
+    <Resource Include="img\1FU-188-190.jpg" />
+    <Resource Include="img\1FU-189-190.jpg" />
+    <Resource Include="img\1FU-190-190.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MyL_Furia.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{A1591282-1198-4647-A2B1-27E5FF5F6F3B}">
+        <SilverlightProjectProperties />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

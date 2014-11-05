@@ -1,0 +1,2093 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Coleccion>
+	<Carta>
+		<idcarta>1FU-001-190</idcarta>
+		<nombre>Arturo de Camelot</nombre>
+		<frecuencia>Ultra Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>5</coste>
+		<fuerza>4</fuerza>
+		<raza>Caballero</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Mientras este Aliado esté en juego, todos tus Aliados son Imbloqueables.&#xA;Mientras este Aliado esté en juego, tus Aliados de Raza Caballero ganan 2 a la Fuerza.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-002-190</idcarta>
+		<nombre>Zeus</nombre>
+		<frecuencia>Ultra Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>5</coste>
+		<fuerza>3</fuerza>
+		<raza>Eterno</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Cuando este Aliado entra en juego, Destruye todos los Tótem y Armas oponentes en juego.&#xA;Mientras este Aliado esté en juego, tus Aliados de Raza Eterno ganan 2 a la Fuerza.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-003-190</idcarta>
+		<nombre>Thor</nombre>
+		<frecuencia>Ultra Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>5</coste>
+		<fuerza>4</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;En tu Fase de Vigilia, sólo una vez por turno, puedes buscar la carta "Mjolnir" en tu Cementerio o Mazo Castillo y jugarla en este Aliado sin pagar su coste.&#xA;Mientras este Aliado esté en juego, tus Aliados de Raza Guerrero ganan 1 a la Fuerza.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-004-190</idcarta>
+		<nombre>Devastador</nombre>
+		<frecuencia>Ultra Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>5</coste>
+		<fuerza>7</fuerza>
+		<raza>Bestia</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Furia.&#xA;Cuando este Aliado entra en juego, Destruye todos los demás Aliados en juego.&#xA;En tu Fase Final Destierra este Aliado.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-005-190</idcarta>
+		<nombre>Xolotl</nombre>
+		<frecuencia>Milenaria</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Baraja todos los Aliados en juego de Fuerza 4 o más.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-006-190</idcarta>
+		<nombre>Anubis</nombre>
+		<frecuencia>Milenaria</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>3</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Puedes Desterrar este Aliado para jugar un Aliado de tu Cementerio sin pagar su coste.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-007-190</idcarta>
+		<nombre>Thanathos</nombre>
+		<frecuencia>Milenaria</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>5</coste>
+		<fuerza>3</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;En tu Fase de Vigilia, sólo una vez por turno, puedes Botar tantas cartas como coste un Aliado para Destruir ese Aliado.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-008-190</idcarta>
+		<nombre>Percival</nombre>
+		<frecuencia>Milenaria</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Cuando este Aliado entra en juego, Baraja un Aliado oponente en juego.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-009-190</idcarta>
+		<nombre>Pryderi</nombre>
+		<frecuencia>Milenaria</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>3</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Furia.&#xA;Cuando este Aliado entra en juego, tu oponente Bota 3 cartas de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-010-190</idcarta>
+		<nombre>Bola de Fuego</nombre>
+		<frecuencia>Milenaria</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Destierra una carta en juego que no sea un Oro.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-011-190</idcarta>
+		<nombre>Haquika</nombre>
+		<frecuencia>Milenaria</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Cuando este Aliado entra en juego, puedes elegir un Aliado oponente y ponerlo en tu Línea de Defensa.&#xA;Si Haquika sale del juego, el Aliado vuelve a la Línea de Defensa oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-012-190</idcarta>
+		<nombre>Fé sin Límites</nombre>
+		<frecuencia>Milenaria</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>0</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Anula un Talismán oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-013-190</idcarta>
+		<nombre>Guillatún</nombre>
+		<frecuencia>Milenaria</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Busca una carta en tu Mazo Castillo y ponla en tu Mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-014-190</idcarta>
+		<nombre>Henry II</nombre>
+		<frecuencia>Milenaria</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>4</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Furia.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-015-190</idcarta>
+		<nombre>Uther Pendragon</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Mientras este Aliado esté en juego, todos tus demás Aliados de Raza Caballero ganan 1 a la Fuerza.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-016-190</idcarta>
+		<nombre>Lamorak</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>4</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Imbloqueable.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-017-190</idcarta>
+		<nombre>Lancelot</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Este Aliado no tiene límite de Armas.&#xA;Gana 1 a la Fuerza por cada Arma que tengas en juego.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-018-190</idcarta>
+		<nombre>Bediver</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>5</coste>
+		<fuerza>3</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Arma en tu Mazo Castillo y jugarla sin pagar su coste.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-019-190</idcarta>
+		<nombre>Tristán</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes robar 2 cartas de tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-020-190</idcarta>
+		<nombre>Caballero Negro</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>3</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Aliado de Raza Caballero en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-021-190</idcarta>
+		<nombre>Odín</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>4</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Aliado de Raza Eterno en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-022-190</idcarta>
+		<nombre>Cronos</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>4</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes elegir un Tótem oponente y ponerlo en tu Línea de Apoyo.&#xA;Si este Aliado sale del juego, el Tótem vuelve a la Línea de Apoyo oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-023-190</idcarta>
+		<nombre>Atenea</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes subir un Aliado oponente a la mano de su dueño.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-024-190</idcarta>
+		<nombre>Ptha</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>En tu Fase de Vigilia, puedes Desterrar este Aliado para buscar una carta de Oro sin habilidad en tu Mazo Castillo y ponerla en juego en tu Zona de Oro Pagado.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-025-190</idcarta>
+		<nombre>Poseidón</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>En tu Fase de Vigilia, puedes jugar este Aliado desde tu Cementerio pagando su coste.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-026-190</idcarta>
+		<nombre>Helios</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes Desterrar este Aliado para Anular un Talismán oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-027-190</idcarta>
+		<nombre>Aquiles</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Mientras este Aliado esté en juego, tus Aliados de Raza Guerrero ganan 1 a la Fuerza.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-028-190</idcarta>
+		<nombre>Teseo</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Una vez por turno, puedes Descartar 2 cartas de tu mano para que un Aliado gane 3 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-029-190</idcarta>
+		<nombre>Espartaco</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>3</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>En tu fase de Vigilia, una vez por turno, puedes Robar 1 carta de tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-030-190</idcarta>
+		<nombre>Leonidas</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>2</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Este Aliado gana 1 a la Fuerza por cada Aliado de Raza Guerrero que tengas en juego.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-031-190</idcarta>
+		<nombre>Gran Visir</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>En tu Fase de Vigilia, una vez por turno, puedes Descartar 1 carta de tu mano para reducir en 1 el coste del próximo Tótem que juegues este turno.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-032-190</idcarta>
+		<nombre>Ramsés II</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, tu oponente Bota 3 cartas de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-033-190</idcarta>
+		<nombre>Dragón de Magma</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes Desterrar un Tótem oponente en juego.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-034-190</idcarta>
+		<nombre>Medusa</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>2</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes elegir un Aliado oponente para que no pueda atacar ni bloquear mientras Medusa esté en juego.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-035-190</idcarta>
+		<nombre>Cancerbero</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>3</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes destruir este Aliado para que un Aliado oponente tenga 0 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-036-190</idcarta>
+		<nombre>Cíclope</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Mientras este Aliado esté en juego, tus demás Aliados de Raza Bestia tienen Furia.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-037-190</idcarta>
+		<nombre>Aphofis</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Mientras este Aliado esté en juego, los Aliados oponentes pierden 1 a la Fuerza.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-038-190</idcarta>
+		<nombre>Ataque de Dragón</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Destruye un Aliado oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-039-190</idcarta>
+		<nombre>Valor</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado gana 2 a la Fuerza y es Imbloqueable hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-040-190</idcarta>
+		<nombre>Juramento de Honor</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Busca un Aliado en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-041-190</idcarta>
+		<nombre>Elegido de Excalibur</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Busca un Arma en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-042-190</idcarta>
+		<nombre>Esperar el Ragnarok</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>4</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Tus Aliados son Imbloqueables hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-043-190</idcarta>
+		<nombre>Juicio de Anubis</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Sube un Aliado oponente a la mano de su dueño.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-044-190</idcarta>
+		<nombre>Unificar Egipto</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Busca un Tótem en tu Mazo Castillo, muestralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-045-190</idcarta>
+		<nombre>Golpe de Relámpago</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Destierra un Tótem oponente en juego.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-046-190</idcarta>
+		<nombre>Carga Temeraria</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado duplica su Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-047-190</idcarta>
+		<nombre>Ataque Táctico</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado gana 3 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-048-190</idcarta>
+		<nombre>Jurar Lealtad</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Busca un Aliado de coste 2 o menos en tu Cementerio y juégalo sin pagar su coste.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-049-190</idcarta>
+		<nombre>Ataque Nocturno</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Tu oponente Bota 3 cartas de su Mazo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-050-190</idcarta>
+		<nombre>Intimidar</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado pierde 3 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-051-190</idcarta>
+		<nombre>Llamar a la Manada</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>true</esunica>
+		<habilidad>Única.&#xA;Roba 3 cartas de tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-052-190</idcarta>
+		<nombre>Excalibur</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 2 a la Fuerza.&#xA;Si esta Arma es portada por "Arturo de Camelot", éste gana 2 a la Fuerza adicional y es Indestructible.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-053-190</idcarta>
+		<nombre>Matadragones</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El portador es Indestructible.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-054-190</idcarta>
+		<nombre>Tridente del Mar</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 2 a la Fuerza.&#xA;En la Fase Final, si el Aliado portador de esta Arma no fue Destruido, puedes mover este Aliado a la Línea de Defensa.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-055-190</idcarta>
+		<nombre>Mjolnir</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 2 a la Fuerza.&#xA;Puedes Destruir esta Arma para que tu oponente Bote 3 cartas de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-056-190</idcarta>
+		<nombre>Casco Espartano</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 2 a la Fuerza.&#xA;Cuando esta Arma entra en juego, puedes Robar 2 cartas de tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-057-190</idcarta>
+		<nombre>Bola de Acero</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;Una vez por turno, puedes Botar 2 cartas de tu Mazo Castillo para que el Aliado portador gane 2 a la Fuerza adicional hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-058-190</idcarta>
+		<nombre>Máscara de Oso</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>0</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;En tu Fase de Vigilia, puedes jugar esta Arma desde tu Cementerio.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-059-190</idcarta>
+		<nombre>Avalon</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>En Guerra de Talismanes, puedes Destruir este Tótem para Cancelar el ataque oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-060-190</idcarta>
+		<nombre>Tótem del Bosque</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Tus Aliados ganan 1 a la Fuerza.&#xA;En tu fase de Vigilia, puedes jugar este Tótem desde tu Cementerio pagando su coste.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-061-190</idcarta>
+		<nombre>Piedra del Antepasado</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>5</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Tus Aliados son Imbloqueables.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-062-190</idcarta>
+		<nombre>Tótem Animal</nombre>
+		<frecuencia>Real</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Tus Aliados con la habilidad Furia ganan 2 a la Fuerza.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-063-190</idcarta>
+		<nombre>Infantería</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Si este Aliado ataca con dos o más Aliados de Raza Caballero, gana 2 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-064-190</idcarta>
+		<nombre>Monje</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>1</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Una vez por turno, puedes pagar 1 Oro para que este Aliado sea Imbloqueable hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-065-190</idcarta>
+		<nombre>Escudero</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Arma en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-066-190</idcarta>
+		<nombre>Señor Feudal</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>1</coste>
+		<fuerza>1</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar la carta "Infantería" en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-067-190</idcarta>
+		<nombre>Cazador</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes Destruir un Aliado de Raza Bestia oponente de coste 2 o menos.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-068-190</idcarta>
+		<nombre>Campesino</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>1</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>En tu Fase de Vigilia, puedes Destruir este Aliado para generar 2 Oros para jugar Armas, hasta la fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-069-190</idcarta>
+		<nombre>Ull</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Oro sin habilidad en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-070-190</idcarta>
+		<nombre>Loki</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes Barajar un Arma en juego.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-071-190</idcarta>
+		<nombre>Heimdall</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Oro sin habilidad en tu Cementerio, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-072-190</idcarta>
+		<nombre>Vali</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes Desterrar este Aliado para Anular un Tótem.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-073-190</idcarta>
+		<nombre>Hela</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar la carta "Loki" en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-074-190</idcarta>
+		<nombre>Hera</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes jugar un Aliado de Raza Eterno de coste 2 o menos desde tu Cementerio sin pagar su coste.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-075-190</idcarta>
+		<nombre>Tropa de Choque</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes Destruir a este Aliado para que uno de tus Aliados gane 3 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-076-190</idcarta>
+		<nombre>Sigfried</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>En Guerra de Talismanes, puedes Descartar 1 carta de tu mano para que este Aliado sea Indestructible hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-077-190</idcarta>
+		<nombre>Beowulf</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, tu oponente Bota 2 cartas de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-078-190</idcarta>
+		<nombre>Halfdan</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>3</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Tótem en tu Cementerio, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-079-190</idcarta>
+		<nombre>Erick Hacha Sangrienta</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>1</coste>
+		<fuerza>2</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Una vez por turno, puedes Descartar 2 cartas de tu mano para que este Aliado gane 2 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-080-190</idcarta>
+		<nombre>Erick el Rojo</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, elige 2 cartas de tu Cementerio y barájalas en tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-081-190</idcarta>
+		<nombre>Esfinge del Norte</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>1</coste>
+		<fuerza>1</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar la carta "Esfinge del Sur" en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-082-190</idcarta>
+		<nombre>Esfinge del Sur</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar la carta "Esfinge del Norte" en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-083-190</idcarta>
+		<nombre>Apis</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, elige un Aliado oponente, ese Aliado tiene Fuerza 0 hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-084-190</idcarta>
+		<nombre>Dragón de Arena</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>1</coste>
+		<fuerza>3</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Furia.&#xA;En la Fase Final, Destruye este Aliado.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-085-190</idcarta>
+		<nombre>Grendel</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>4</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, tu oponente Destruye una de sus Armas.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-086-190</idcarta>
+		<nombre>Kraken</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>4</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes Destruir este Aliado para Destruir un Tótem.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-087-190</idcarta>
+		<nombre>Banshee</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar en tu Cementerio un Aliado de Raza Bestia de coste 1, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-088-190</idcarta>
+		<nombre>Envenenar</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Sólo puedes jugar este Talismán en tu Fase de Vigilia.&#xA;Un Aliado oponente no puede Bloquear.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-089-190</idcarta>
+		<nombre>Lanzar Energía</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Tu oponente Bota 2 cartas de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-090-190</idcarta>
+		<nombre>Valor de Caballero</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes Destruir uno de tus Aliados de Raza Caballero en juego para buscar 3 Aliados de Raza Caballero en tu Cementerio, muéstralos a tu oponenete y Barájalos en tu mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-091-190</idcarta>
+		<nombre>Contraataque</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado es Imbloqueable hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-092-190</idcarta>
+		<nombre>Espíritu de los dioses</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado gana 2 a la Fuerza, hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-093-190</idcarta>
+		<nombre>Manipular Mente</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Elige 3 cartas de tu Cementerio y barájalas en tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-094-190</idcarta>
+		<nombre>Golpe del Mar</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Destruye un Tótem oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-095-190</idcarta>
+		<nombre>Otra Vida</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Mira la mano de tu oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-096-190</idcarta>
+		<nombre>Pacto del Guerrero</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Cada jugador Roba 2 cartas de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-097-190</idcarta>
+		<nombre>Emboscada Silenciosa</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Destruye un Aliado de coste 2.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-098-190</idcarta>
+		<nombre>Momificar</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Busca 2 cartas en el Cementerio oponente y Destiérralas.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-099-190</idcarta>
+		<nombre>Daño Letal</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>5</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Destruye una carta que no sea Oro.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-100-190</idcarta>
+		<nombre>Instinto Animal</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Busca un Aliado de Raza Bestia en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-101-190</idcarta>
+		<nombre>Ferocidad</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>4</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Elige 2 Aliados para que sean Indestructibles hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-102-190</idcarta>
+		<nombre>Mordedura Venenosa</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado oponente pierde 2 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-103-190</idcarta>
+		<nombre>Convertir en Piedra</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado tiene Fuerza 0 hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-104-190</idcarta>
+		<nombre>Espada Corta</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador es Imbloqueable.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-105-190</idcarta>
+		<nombre>Escudo Antiguo</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;El Aliado portador gana 1 a la Fuerza adicional cuando bloquea.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-106-190</idcarta>
+		<nombre>Escudo Egipcio</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;Cuando el Aliado portador bloquee, tu oponente debe Botar 1 carta de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-107-190</idcarta>
+		<nombre>Hacha Bendecida</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;En tu Fase de Vigilia, puedes jugar esta Arma desde tu Cementerio pagando su coste.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-108-190</idcarta>
+		<nombre>Hacha Descomunal</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes Botar 1 carta de tu mano para que el portador de esta Arma sea Indestructible hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-109-190</idcarta>
+		<nombre>Espada Dentada</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;Puedes Destruir esta Arma para Destruir un Arma oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-110-190</idcarta>
+		<nombre>Hacha de Piedra</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 3 a la Fuerza.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-111-190</idcarta>
+		<nombre>Lanza de Marfil</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;Puedes Destruir esta Arma para que un Aliado oponente pierda 2 a la Fuerza.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-112-190</idcarta>
+		<nombre>Monasterio</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Los Aliados oponentes Imbloqueables pueden ser bloqueados.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-113-190</idcarta>
+		<nombre>Mastaba</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>4</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes Destruir este Tótem para subir un Aliado en juego a la mano de su dueño.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-114-190</idcarta>
+		<nombre>Estandarte</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>En tu Fase de Vigilia, una vez por turno, si todos tus Aliados son de Raza Guerrero, puedes Robar 1 carta.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-115-190</idcarta>
+		<nombre>Círculo de Invocación</nombre>
+		<frecuencia>Cortesano</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>En tu Fase de Vigilia, una vez por turno, puedes Desterrar una carta del Cementerio oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-116-190</idcarta>
+		<nombre>Caballero Templario</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Furia.&#xA;Si este Aliado ataca junto a otro "Caballero Templario", gana 1 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-117-190</idcarta>
+		<nombre>Caballero Verde</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>1</coste>
+		<fuerza>1</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Imbloqueable.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-118-190</idcarta>
+		<nombre>Rey Negro</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado salga del juego, puedes buscar un Arma en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-119-190</idcarta>
+		<nombre>Gawain</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Furia.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-120-190</idcarta>
+		<nombre>Galahad</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Arma en tu Cementerio, muéstrala a tu oponente y barájala en tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-121-190</idcarta>
+		<nombre>Boores</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Este Aliado puede portar 2 Armas.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-122-190</idcarta>
+		<nombre>Kay</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>1</coste>
+		<fuerza>1</fuerza>
+		<raza>Caballero</raza>
+		<esunica>false</esunica>
+		<habilidad>Si este Aliado es declarado atacante, gana 2 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-123-190</idcarta>
+		<nombre>Oberón</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Este Aliado gana 1 a la Fuerza por cada carta "Hadas" que tengas en juego.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-124-190</idcarta>
+		<nombre>Tyr</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar la carta "Ull" en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-125-190</idcarta>
+		<nombre>Ares</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, todos tus demás Aliados de Raza Eterno ganan 1 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-126-190</idcarta>
+		<nombre>Bastet</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Aliado de Raza Eterno en tu Cementerio, muéstralo a tu oponente y barájalo en tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-127-190</idcarta>
+		<nombre>Hadas</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>1</coste>
+		<fuerza>1</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>En tu Fase de Vigilia, puedes jugar este Aliado desde tu Cementerio pagando su coste.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-128-190</idcarta>
+		<nombre>Nut</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>2</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Oro sin habilidad en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-129-190</idcarta>
+		<nombre>Thot</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>4</fuerza>
+		<raza>Eterno</raza>
+		<esunica>false</esunica>
+		<habilidad>Este Aliado no puede atacar.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-130-190</idcarta>
+		<nombre>Amosis I</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Si es el único Aliado declarado Atacante, gana 2 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-131-190</idcarta>
+		<nombre>Guerrero Hicso</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, tu oponente debe Botar 1 carta de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-132-190</idcarta>
+		<nombre>Guerrero Hoplita</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>1</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Indestructible.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-133-190</idcarta>
+		<nombre>Gladiador</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>1</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Este Aliado gana 1 a la Fuerza por cada Tótem que tengas en juego.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-134-190</idcarta>
+		<nombre>Vigía</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes Robar 1 carta.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-135-190</idcarta>
+		<nombre>Jomsvikingos</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>1</coste>
+		<fuerza>2</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes Destruir este Aliado para que tu oponente Bote 1 carta de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-136-190</idcarta>
+		<nombre>Mercenario</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>4</fuerza>
+		<raza>Guerrero</raza>
+		<esunica>false</esunica>
+		<habilidad>Para que este Aliado pueda ser declarado atacante o defensor, debes descartar una carta de tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-137-190</idcarta>
+		<nombre>Escorpión Gigante</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>2</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes Destruir un Aliado oponente de coste 1.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-138-190</idcarta>
+		<nombre>Escarabajo de las Arenas</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>1</coste>
+		<fuerza>1</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar una copia de esta carta en tu Mazo Castillo, juégala sin pagar su coste.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-139-190</idcarta>
+		<nombre>Centauro</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado es declarado atacante, elige un Aliado oponente para que pierda 1 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-140-190</idcarta>
+		<nombre>Sirena</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Este Aliado puede bloquear Aliados Imbloqueables.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-141-190</idcarta>
+		<nombre>Gárgola</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>2</coste>
+		<fuerza>2</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes Destruir este Aliado para que tus Aliados de Raza Bestia ganen 1 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-142-190</idcarta>
+		<nombre>Leviatán</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>3</coste>
+		<fuerza>3</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Cuando este Aliado entra en juego, puedes buscar un Aliado de Raza Bestia de coste 2 en tu Cementerio, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-143-190</idcarta>
+		<nombre>Gigante de Hielo</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Aliado</tipo>
+		<coste>4</coste>
+		<fuerza>4</fuerza>
+		<raza>Bestia</raza>
+		<esunica>false</esunica>
+		<habilidad>Este Aliado sólo puede Atacar.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-144-190</idcarta>
+		<nombre>Encantar Cota de Malla</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado que porte un Arma que porte un Arma gana 1 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-145-190</idcarta>
+		<nombre>Luz Viajera</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Baraja un Arma en juego en el Mazo Castillo de su dueño.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-146-190</idcarta>
+		<nombre>Orden de Arturo</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>4</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Elige 2 Aliados para que sean Imbloqueables hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-147-190</idcarta>
+		<nombre>Consejo del Mago</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Busca un Aliado de Raza Caballero de coste 2 o menos en tu Mazo Castillo y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-148-190</idcarta>
+		<nombre>Rayo Divino</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>4</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Destruye un Aliado oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-149-190</idcarta>
+		<nombre>Bendecir Armas</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Cada jugador busca una carta Arma en su Mazo Castillo, la muestran a su oponente y la ponen en su mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-150-190</idcarta>
+		<nombre>Visión del Ragnarok</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>7</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Destruye todos los Aliados en juego.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-151-190</idcarta>
+		<nombre>Sueño de Morfeo</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>5</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Busca 1 carta en tu Mazo Castillo y ponla en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-152-190</idcarta>
+		<nombre>Ritual del Camino</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Destruye uno de tus Aliados para buscar un Tótem en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-153-190</idcarta>
+		<nombre>Vigilia Nocturna</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Cada jugador Descarta una carta de su mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-154-190</idcarta>
+		<nombre>Consejo de Guerreros</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>4</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Busca un Talismán en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-155-190</idcarta>
+		<nombre>Ráfaga de Flechas</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Tu oponente Bota 1 carta de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-156-190</idcarta>
+		<nombre>Ataque en Equipo</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Descarta tu mano y Roba ese mismo número de cartas de tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-157-190</idcarta>
+		<nombre>Plaga de Ratas</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Tótem pierde su habilidad hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-158-190</idcarta>
+		<nombre>Forma Gigante</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Los Aliados de Raza Bestia ganan 1 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-159-190</idcarta>
+		<nombre>Llamada de Dragón</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>4</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Busca un Aliado en tu Cementerio, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-160-190</idcarta>
+		<nombre>Mirada de Medusa</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado pierde 3 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-161-190</idcarta>
+		<nombre>Forma Animal</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Talismán</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Un Aliado tiene Furia hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-162-190</idcarta>
+		<nombre>Maza de Guerra</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;Cuando esta Arma entre en juego, puedes barajar 1 Arma de tu Cementerio en tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-163-190</idcarta>
+		<nombre>Casco de Guerra</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>4</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 2 a la Fuerza.&#xA;Cuando esta Arma entra en juego, puedes buscar una copia de esta carta en tu Mazo Castillo y jugarla sin pagar su coste.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-164-190</idcarta>
+		<nombre>Daga Ceremonial</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;Cuando esta Arma entra en juego, puedes buscar un Oro sin habilidad en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-165-190</idcarta>
+		<nombre>Báculo</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;En tu Fase de Vigilia, puedes Destruir esta Arma para generar 2 oros para jugar Armas.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-166-190</idcarta>
+		<nombre>Grebas</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;Puedes Descartar 4 cartas de tu mano para que el portador gane 4 a la Fuerza hasta la Fase Final.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-167-190</idcarta>
+		<nombre>Sandalias Mágicas</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;En tu Fase de Vigilia, puedes Destruir esta Arma para generar 2 oros para jugar Tótem.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-168-190</idcarta>
+		<nombre>Hacha de Hueso</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;Cuando esta Arma salga del juego, tu oponente debe Botar 1 carta de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-169-190</idcarta>
+		<nombre>Escudo de Dragón</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 2 a la Fuerza.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-170-190</idcarta>
+		<nombre>Espada de Dragón</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Arma</tipo>
+		<coste>1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>El Aliado portador gana 1 a la Fuerza.&#xA;Cuando esta Arma entra en juego, puedes buscar una copia de esta Arma en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu mano.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-171-190</idcarta>
+		<nombre>Torre de Plata</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>3</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes Destruir este Tótem para Desterrar 3 cartas del Cementerio oponente.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-172-190</idcarta>
+		<nombre>Altar de Ra</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes pagar 2 Oros para Barajar 1 carta de tu Cementerio en tu Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-173-190</idcarta>
+		<nombre>Altar de los Caídos</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>2</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>Puedes pagar 2 Oros para que tu oponente Bote 1 carta de su Mazo Castillo.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-174-190</idcarta>
+		<nombre>Altar de Caza</nombre>
+		<frecuencia>Vasallo</frecuencia>
+		<tipo>Tótem</tipo>
+		<coste>4</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad>En tu Fase de Vigilia, una vez en tu turno, puedes pagar 2 Oros para subir un Aliado oponente desde la Línea de Defensa a su Línea de Ataque.</habilidad>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-175-190</idcarta>
+		<nombre>Trono de Acero</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-176-190</idcarta>
+		<nombre>Botín Vikingo</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-177-190</idcarta>
+		<nombre>Drakkar</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-178-190</idcarta>
+		<nombre>Tesoro del Faraón</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-179-190</idcarta>
+		<nombre>Vasija de Cobre</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-180-190</idcarta>
+		<nombre>Forja</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-181-190</idcarta>
+		<nombre>Silos</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-182-190</idcarta>
+		<nombre>Jeroglíficos</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-183-190</idcarta>
+		<nombre>Sello de Odín</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-184-190</idcarta>
+		<nombre>Mesa Redonda</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-185-190</idcarta>
+		<nombre>Trono de Guerrero</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-186-190</idcarta>
+		<nombre>Monedas de Plata</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-187-190</idcarta>
+		<nombre>Joyas de la Reina</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-188-190</idcarta>
+		<nombre>Máscara de Oro</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-189-190</idcarta>
+		<nombre>Runas</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+	<Carta>
+		<idcarta>1FU-190-190</idcarta>
+		<nombre>Los Eddas</nombre>
+		<frecuencia>null</frecuencia>
+		<tipo>Oro</tipo>
+		<coste>-1</coste>
+		<fuerza>-1</fuerza>
+		<raza>null</raza>
+		<esunica>false</esunica>
+		<habilidad/>
+	</Carta>
+</Coleccion>
